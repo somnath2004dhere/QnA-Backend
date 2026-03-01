@@ -1,13 +1,14 @@
 package com.ai.QnA_Chat;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QnAChatApplicationTests {
+public class QnAChatApplicationTests {
 
 	@Test
-	void contextLoads() {
+    public void contextLoads() {
 	}
 
 }
